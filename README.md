@@ -1,4 +1,4 @@
 ```
-Python Homework by John Mangahas
+Pandas Homework by John Mangahas
 
 ```
